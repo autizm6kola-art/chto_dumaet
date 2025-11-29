@@ -50,7 +50,7 @@ function TasksPage({ tasks, goBack }) {
         ← Назад к выбору
       </button>
 
-      <h1 className="task-heading">Что думает ... ?</h1>
+      <h1 className="task-heading">О чём думает ... ?</h1>
 
       <hr />
 

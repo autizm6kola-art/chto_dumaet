@@ -50,7 +50,7 @@ function MenuPage({ allTasks, onSelectRange }) {
     <div className="menu-container">
       <BackButton />
 
-      <h1 className="menu-title">Что думает ... ?</h1>
+      <h1 className="menu-title">О чём думает ... ?</h1>
 
       <ProgressBar correct={totalCorrect} total={allTasks.length} />
 
